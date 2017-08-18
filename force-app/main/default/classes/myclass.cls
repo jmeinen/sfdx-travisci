@@ -1,3 +1,4 @@
+/* Test Github Commit */
 public with sharing class myclass {
 	public myclass() {
 
